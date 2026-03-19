@@ -1,10 +1,15 @@
 # Aplicación de Nuevas Tecnologías — 2026
 
 **Institución:** ITS Villada
-**Carrera:** Tecnicatura en Programación (último año)
+
+**Especialidad:** Tecnicatura en Programación (último año)
+
 **Docente:** Mateo y Javi
+
 **Modalidad:** 1h teórica + 2h práctica, todos los jueves
+
 **Período:** Marzo – Noviembre 2026 (excl. julio vacaciones, sep–oct pasantías)
+
 **Clases estimadas:** 25
 
 ---
