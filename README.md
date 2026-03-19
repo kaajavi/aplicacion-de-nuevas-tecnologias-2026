@@ -25,7 +25,6 @@
 | Julio | — | 🏖️ Vacaciones de invierno |
 | Agosto (6/8 – 27/8) | 4 | Unidad 5 — Cloud Computing y Deploy en Cloudflare |
 | Sep – Oct | — | 🏢 Pasantías |
-| Noviembre (5/11 – 26/11) | 4 | Unidad 6 — Proyecto Integrador Final |
 
 ---
 
@@ -74,24 +73,6 @@
 | 19 | 13/8 | Cloudflare Workers, Wrangler, KV y D1 | TP18: Worker como API REST con CRUD y D1 |
 | 20 | 20/8 | Docker: imágenes, Dockerfile, CI/CD | TP19: Dockerizar app + GitHub Actions básico |
 | 21 | 27/8 | Arquitectura moderna: Pages + Workers + D1 + Workers AI | TP20: Deploy full-stack en Cloudflare |
-
-## Unidad 6 — Proyecto Integrador Final (Noviembre)
-
-| Clase | Fecha | Actividad |
-|-------|-------|-----------|
-| 22 | 5/11 | Consigna, formación de grupos, planificación |
-| 23 | 12/11 | Desarrollo guiado con consultas |
-| 24 | 19/11 | Testing, deploy y preparación de presentación |
-| 25 | 26/11 | **Presentación final** — Demo en vivo + defensa |
-
-### Consigna del Proyecto Integrador
-
-Desarrollar una app que integre **al menos 3** de:
-- Modelo ML entrenado/fine-tuneado
-- API de LLM con prompt engineering
-- Agente con tool use
-- Deploy en Cloudflare
-- Containerización con Docker
 
 **Evaluación:** Funcionalidad (30%) · Código y docs (20%) · Deploy (20%) · Presentación (15%) · Originalidad (15%)
 
